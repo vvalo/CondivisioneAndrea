@@ -10,6 +10,7 @@ namespace CondivisioneConAndrea
     {
         static void Main(string[] args)
         {
+            new Class1();
             Console.WriteLine("Ciao Andrea!");
             Console.ReadLine();
         }

@@ -4,3 +4,9 @@ C:\Users\valen\Valentino\DotNetJob\CondivisioneConAndrea\CondivisioneConAndrea\b
 C:\Users\valen\Valentino\DotNetJob\CondivisioneConAndrea\CondivisioneConAndrea\obj\Debug\CondivisioneConAndrea.csprojResolveAssemblyReference.cache
 C:\Users\valen\Valentino\DotNetJob\CondivisioneConAndrea\CondivisioneConAndrea\obj\Debug\CondivisioneConAndrea.exe
 C:\Users\valen\Valentino\DotNetJob\CondivisioneConAndrea\CondivisioneConAndrea\obj\Debug\CondivisioneConAndrea.pdb
+C:\Users\valen\Valentino\DotNetJob\ConAndrea\CondivisioneConAndrea\CondivisioneConAndrea\bin\Debug\CondivisioneConAndrea.exe.config
+C:\Users\valen\Valentino\DotNetJob\ConAndrea\CondivisioneConAndrea\CondivisioneConAndrea\obj\Debug\CondivisioneConAndrea.exe
+C:\Users\valen\Valentino\DotNetJob\ConAndrea\CondivisioneConAndrea\CondivisioneConAndrea\obj\Debug\CondivisioneConAndrea.pdb
+C:\Users\valen\Valentino\DotNetJob\ConAndrea\CondivisioneConAndrea\CondivisioneConAndrea\bin\Debug\CondivisioneConAndrea.exe
+C:\Users\valen\Valentino\DotNetJob\ConAndrea\CondivisioneConAndrea\CondivisioneConAndrea\bin\Debug\CondivisioneConAndrea.pdb
+C:\Users\valen\Valentino\DotNetJob\ConAndrea\CondivisioneConAndrea\CondivisioneConAndrea\obj\Debug\CondivisioneConAndrea.csprojResolveAssemblyReference.cache
